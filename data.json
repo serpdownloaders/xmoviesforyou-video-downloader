@@ -1,0 +1,212 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/xmoviesforyou-downloader",
+  "serply_link": "https://serp.ly/xmoviesforyou-downloader",
+  "app_name": "Xmoviesforyou Video Downloader",
+  "short_description": "Download & Save Xmoviesforyou Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "The Xmoviesforyou Downloader is a browser extension built for Chrome, Edge, Brave, and Firefox that detects video sources on XMoviesForYou pages and saves them as MP4 files. It uses a button-driven workflow so you can download media with minimal clicks.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/xmoviesforyou-downloader-fullscreen-01-8e3c00a5de.webp",
+    "https://apps.serp.co/media/optimized-products/xmoviesforyou-downloader-fullscreen-02-095685ab81.webp",
+    "https://apps.serp.co/media/optimized-products/xmoviesforyou-downloader-fullscreen-03-4579a23a65.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Can I use this extension on any XMoviesForYou page?",
+      "answer": "The extension works on video pages where the player loads and exposes a detectable source. Some pages may not be supported."
+    },
+    {
+      "question": "Do I need to create an account to use the extension?",
+      "answer": "Yes, you need to sign in with your email to access the download functionality. A one-time password is sent for verification."
+    },
+    {
+      "question": "Is the extension free?",
+      "answer": "You get 3 free trial downloads. After that, unlimited downloads require a paid license."
+    },
+    {
+      "question": "Will this work on mobile browsers?",
+      "answer": "The extension is designed for desktop browsers like Chrome, Edge, Brave, and Firefox. Mobile browser support is not confirmed."
+    },
+    {
+      "question": "Can I download multiple videos at once?",
+      "answer": "The extension supports one download at a time. Batch or bulk downloading is not available."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Keeping a backup copy of content you have permission to save"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Installs on Chromium-based browsers and Firefox",
+    "Detects video sources directly from the page player",
+    "Saves files in MP4 format for broad playback support",
+    "Uses a simple button-driven interface",
+    "Includes 3 free trial downloads to test the workflow",
+    "Detects video sources on XMoviesForYou pages automatically",
+    "Saves files as MP4 for broad device compatibility",
+    "Button-driven interface that appears on supported pages",
+    "Supports Chrome, Edge, Brave, and Firefox browsers",
+    "3 free trial downloads to evaluate the workflow",
+    "Secure email sign-in with one-time password verification",
+    "No credit card required for the trial",
+    "Unlimited downloads available with a paid license"
+  ],
+  "content": {
+    "why": [
+      "XMoviesForYou hosts a large library of video content, but the platform does not include a built-in download feature. Users who want to save videos for offline viewing must rely on third-party tools or screen recording, which often produce lower quality or require complex setup.",
+      "The Xmoviesforyou Downloader solves this by integrating directly into your browser. Once installed, it detects the video source playing on the page and offers a simple button to save it as an MP4 file. This eliminates the need for external software or manual source inspection."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open XMoviesForYou and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the extension from the latest GitHub release.",
+      "Open your browser and navigate to XMoviesForYou.",
+      "Browse or search for a video you want to download.",
+      "Click on the video to open its dedicated page.",
+      "Start playback so the video player loads fully.",
+      "Click the extension icon in your browser toolbar.",
+      "Select the quality option from the available choices.",
+      "Click the download button and save the MP4 file to your device."
+    ],
+    "supported_formats": [
+      "Input: Video sources detected on XMoviesForYou video pages during playback",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "XMoviesForYou viewers who want to save videos for offline playback",
+      "Users who prefer a browser-native download workflow over external tools",
+      "People who need MP4 files for archiving or transferring between devices",
+      "Anyone looking for a simple button-driven download process"
+    ],
+    "use_cases": [
+      "Saving favorite videos to watch offline without an internet connection",
+      "Building a personal archive of content from XMoviesForYou",
+      "Transferring videos to mobile devices or media players",
+      "Sharing downloaded files with friends or family",
+      "Keeping a backup copy of content you have permission to save"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page. Make sure the video player on XMoviesForYou is fully loaded and playing before opening the extension popup.",
+      "The download button is grayed out or inactive. Refresh the page, start playback again, and try reopening the extension popup after the player initializes.",
+      "The download starts but fails partway through. Check your internet connection and ensure you have enough free disk space. Try a different quality option if available.",
+      "I see an error about unsupported format. The video on that page may use a format the extension cannot process. Try a different video on XMoviesForYou.",
+      "The extension does not appear after installation. Verify you installed the correct build for your browser. Chrome users should enable Developer mode and load the unpacked extension."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported XMoviesForYou page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "XMoviesForYou may update their player or page structure, which could affect extension behavior",
+      "The extension is not affiliated with or endorsed by XMoviesForYou"
+    ],
+    "about": [
+      "XMoviesForYou is a video hosting platform that offers a wide range of adult content across various categories. The Xmoviesforyou Downloader helps users save videos from the platform directly to their device for offline viewing."
+    ]
+  },
+  "serpx_link": "https://serpx.link/xmoviesforyou-downloader",
+  "github_topics": [
+    "xmoviesforyou-download",
+    "xmoviesforyou-downloader",
+    "xmoviesforyou-video-downloader",
+    "xmoviesforyou-video-downloader-online",
+    "xmoviesforyou-video-downloader-mac",
+    "xmoviesforyou-video-downloader-window",
+    "xmoviesforyou-video-downloader-free",
+    "xmoviesforyou-video-downloader-extension",
+    "xmoviesforyou-video-downloader-app",
+    "xmoviesforyou-video-downloader-chrome",
+    "xmoviesforyou-video-downloader-from-url",
+    "how-to-download-xmoviesforyou-videos",
+    "how-to-download-xmoviesforyou-videos-mac",
+    "how-to-download-xmoviesforyou-videos-windows",
+    "how-to-download-xmoviesforyou-videos-online",
+    "how-to-download-xmoviesforyou-videos-free",
+    "how-to-download-from-xmoviesforyou",
+    "how-to-download-videos-from-xmoviesforyou",
+    "download-xmoviesforyou-videos",
+    "xmoviesforyou-video-tutorial",
+    "save-xmoviesforyou-videos",
+    "xmoviesforyou-video-content-saver",
+    "how-to-download-xmoviesforyou-videos-for-free"
+  ],
+  "hashtags": [
+    "#XmoviesforyouDownload",
+    "#XmoviesforyouDownloader",
+    "#XmoviesforyouVideoDownloader",
+    "#XmoviesforyouVideoDownloaderOnline",
+    "#XmoviesforyouVideoDownloaderMac",
+    "#XmoviesforyouVideoDownloaderWindow",
+    "#XmoviesforyouVideoDownloaderFree",
+    "#XmoviesforyouVideoDownloaderExtension",
+    "#XmoviesforyouVideoDownloaderApp",
+    "#XmoviesforyouVideoDownloaderChrome",
+    "#XmoviesforyouVideoDownloaderFromURL",
+    "#HowToDownloadXmoviesforyouVideos",
+    "#HowToDownloadXmoviesforyouVideosMac",
+    "#HowToDownloadXmoviesforyouVideosWindows",
+    "#HowToDownloadXmoviesforyouVideosOnline",
+    "#HowToDownloadXmoviesforyouVideosFree",
+    "#HowToDownloadFromXmoviesforyou",
+    "#HowToDownloadVideosFromXmoviesforyou",
+    "#DownloadXmoviesforyouVideos",
+    "#XmoviesforyouVideoTutorial",
+    "#SaveXmoviesforyouVideos",
+    "#XmoviesforyouVideoContentSaver",
+    "#HowToDownloadXmoviesforyouVideosForFree"
+  ],
+  "youtube_tags": [
+    "Xmoviesforyou Download",
+    "Xmoviesforyou Downloader",
+    "Xmoviesforyou Video Downloader",
+    "Xmoviesforyou Video Downloader Online",
+    "Xmoviesforyou Video Downloader Mac",
+    "Xmoviesforyou Video Downloader Window",
+    "Xmoviesforyou Video Downloader Free",
+    "Xmoviesforyou Video Downloader Extension",
+    "Xmoviesforyou Video Downloader App",
+    "Xmoviesforyou Video Downloader Chrome",
+    "Xmoviesforyou Video Downloader From URL",
+    "How To Download Xmoviesforyou Videos",
+    "How To Download Xmoviesforyou Videos Mac",
+    "How To Download Xmoviesforyou Videos Windows",
+    "How To Download Xmoviesforyou Videos Online",
+    "How To Download Xmoviesforyou Videos Free",
+    "How To Download From Xmoviesforyou",
+    "How To Download Videos From Xmoviesforyou",
+    "Download Xmoviesforyou Videos",
+    "Xmoviesforyou Video Tutorial",
+    "Save Xmoviesforyou Videos",
+    "Xmoviesforyou Video Content Saver",
+    "How To Download Xmoviesforyou Videos For Free"
+  ]
+}
